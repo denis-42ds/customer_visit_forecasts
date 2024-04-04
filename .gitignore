@@ -1,0 +1,9 @@
+data/
+mlflow_experiments_store/
+.env_lab/
+.git/
+.ipynb_checkpoints/
+run_mlflow_server.sh
+.env
+.run_jupyter.sh
+
